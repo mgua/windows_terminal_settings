@@ -1,3 +1,7 @@
+# Disclaimer
+This document is a work in progress. It is a place where I, Marco Guardigli, mgua@tomware.it organize my notes about use configuration of Windows Terminal
+
+
 # Introduction
 what is a terminal application
 
