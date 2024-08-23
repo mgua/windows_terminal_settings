@@ -1,23 +1,27 @@
-# windows_terminal_settings
+# Introduction
+what is a terminal application
+
+windows terminal: an open source from Microsoft
 settings for windows terminal, to access local and remote resources, like terminal applications, local WSL, remote servers, WSLs on other computers
 
-## Abstract
 
 ## Windows terminal installation and upgrades
 
 
+## Windows terminal configuration management
+
+
 ## Font setup
+- non ascii characters considerations
+- nerdfonts
 
-### non ascii characters considerations
-
-### nerdfonts
-
-### curses/ncurses support
-
+## curses/ncurses support
+- gmc: GNU midnight commander
+- far manager
 
 ## Session management tools
-screen
-tmux
+- screen
+- tmux
 
 
 ## clipboard considerations
@@ -32,12 +36,11 @@ emacs?
 
 
 ## Applications
-
-### local cmd command prompt
-
-### local powershell
-oh-my-posh integration
-psprofile
+Windows terminal allows interactions with local character based applications, like local CLI (Command Line Interaction) shells like CMD, BASH, PWSH, etc...
+- local Windows CMD command prompt
+- local powershell
+- powershell with oh-my-posh integration
+- powershell with psprofile
 
 ### local git bash
 
@@ -78,4 +81,10 @@ kitty
 teraterm
 tools for arduino or similar microcontroller serial integration
 serial over tcp: port servers
+
+## Integrating Windows Terminal with other applications
+- vscode
+- vim
+- neovim
+- 
 
